@@ -2,6 +2,7 @@
 
 ## SWBATs
 
+* See what a React Component actually is (an object, made by a class or function)
 * Learn how to identify components on a page, visually
 * Understand how create-react-app works and what it offers a developer
 * Get more familiarity with component hierarchy and the flow of information

@@ -9,7 +9,7 @@
 
 ## Resources
 
-* [Example Video](http://youtu.be/Sjla00Wrj20)
+* [Example Video](http://youtu.be/Sjla00Wrj20) - old video(before flipping)
 
 ## Outline
 
